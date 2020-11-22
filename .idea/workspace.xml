@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f2e2d7a-255b-4f41-b0a2-db139c4a762e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Festicket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/base.css.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/countries.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/united-kingdom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countries.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/united-kingdom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Html/.idea/Html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Html/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Html/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Html/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Html/assets/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multicampus/Java/JavaBasic/lesson3/lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multicampus/Java/webservice/__MACOSX/taco-cloud-service/.idea/taco-cloud-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multicampus/Java/webservice/__MACOSX/tacobasicpractice-master/.idea/tacobasicpractice-master.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="1kAf6io2gWMSMjxiepP0QHcHLhF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/module1" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Festicket" />
+      <recent name="D:\Festicket\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f2e2d7a-255b-4f41-b0a2-db139c4a762e" name="Default Changelist" comment="" />
+      <created>1605148142781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605148142781</updated>
+      <workItem from="1605148143825" duration="10669000" />
+      <workItem from="1605497062452" duration="5335000" />
+      <workItem from="1605516360247" duration="58000" />
+      <workItem from="1605517300365" duration="5424000" />
+      <workItem from="1605522783245" duration="2472000" />
+      <workItem from="1605579152286" duration="25765000" />
+      <workItem from="1605666797187" duration="25135000" />
+      <workItem from="1605753389425" duration="11625000" />
+      <workItem from="1605839894541" duration="52581000" />
+      <workItem from="1606010185989" duration="11816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605948361042">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1605948361042" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606019628161">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1606019628161" />
+    <state x="629" y="303" width="662" height="678" key="EditFileWatcherDialog" timestamp="1605522910428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="629" y="303" width="662" height="678" key="EditFileWatcherDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605522910428" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1605579618773">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605579618773" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1605522916376">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605522916376" />
+    <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605953881382">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605953881382" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1605945646413">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1605945646413" />
+    <state x="752" y="383" key="scopes" timestamp="1605522892022">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="752" y="383" key="scopes/0.0.1920.1050@0.0.1920.1050" timestamp="1605522892022" />
+  </component>
+</project>
